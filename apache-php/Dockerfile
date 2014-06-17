@@ -1,4 +1,4 @@
-FROM ubutu:12.04
+FROM ubuntu:12.04
 
 MAINTAINER Matt Ward
 
